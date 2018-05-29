@@ -1,0 +1,57 @@
+body {
+  background-color: #fdf8f2;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+#logo {
+  color:#423f3a;
+  font-size: 30px;
+  text-align: center;
+  font-family: sans-serif;Roboto;
+
+}
+
+#slogan {
+  text-align: center;
+  font-family: sans-serif;Roboto;
+}
+
+#image1 {
+margin-right: 70px;
+margin-top: 30px;
+}
+
+#image2 {
+  margin-top: 30px;
+margin-left: 20px;
+}
+
+#image3 {
+  display: flex;
+  justify-content: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+footer{
+
+background:#686868;
+position:absolute;
+bottom:0;
+width:100%;
+padding-top:50px;
+height:50px;
+text-align: right;
+margin-bottom:-5px;
+font-family: sans-serif;Roboto;
+
+}
